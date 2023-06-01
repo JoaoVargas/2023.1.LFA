@@ -1,0 +1,61 @@
+Atenção!!! Leiam todas as informações deste cabeçalho!
+
+Esta avaliação pode ser feita individualmente ou em dupla.
+
+No caso da escolha ser em DUPLA, tal escolha será PERMANENTE! Ou seja, a DUPLA definida, se for desfeita durante o semestre, seguirá como indivíduos, até o FINAL DO SEMESTRE!
+
+Importante! Identifiquem para qual exercício/questão que vocês estão enviando a sua resposta.
+
+Arquivos sempre com a extensão: .pdf
+
+NUNCA enviem as respostas (códigos) através dos comentários!
+
+Serão aceitas respostas enviadas SOMENTE através deste site! Nenhum resultado, enviado por email (ou outra forma), será considerado!!!
+
+Assim, sigam o seguinte exemplo:
+
+Para enviar o exercício no. 1 do TC02, o nome do arquivo deve ser:
+
+ex01-TC02-XYZ-WRK.c
+
+Sendo XYZ e WRK as iniciais dos nomes dos 2 alunos envolvidos (se for feito individualmente, considerar apenas as iniciais do aluno único).
+
+REPETINDO... NÃO enviem nenhuma resposta através do campo de comentários... apenas através do envio de arquivo! 
+
+As respostas não serão visíveis para o grupo (visualização individual).
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Desenvolva uma máquina de vendas de produtos, semelhante aquelas encontradas em aeroportos.
+
+Dock Machine – Vending Machines
+
+Dock Machine – Vending Machines
+
+Dock Machine – Vending Machines
+
+Especificação da máquina: a especificação deve ser realizada através de um Autômatos com Saída (moore ou mealy).
+
+Entrada: seleção do produto e forma de pagamento (dinheiro, moeda, cartão).
+
+Saída: negação do serviço (por algum motivo), entrega do produto e entrega do troco (eventualmente).
+
+ 
+
+Requisitos mínimos: oferta de 20 produtos, com a classificação dos mesmos (comida, bebida, etc.).
+
+Identificação do estoque: lembre-se que todos os produtos (em cada classificação) são finitos!
+
+Identificação de reposição: a necessidade de reposição (de cada produto) deve ser monitorada... (eventos? -> sugestão: composição síncrona de AFs).
+
+ 
+
+Obs.: você poderá utilizar outros formalismos, apresentado na disciplina, para complementar a sua solução.
+
+ 
+
+Resultados esperados:
+
+    Modelos utilizados, com as devidas explicações / justificativas de uso e funcionamento;
+    Implementação de um simulador (linguagem C ou Python), com base no(s) modelo(s) definido(s); e
+    Relatório detalhado, com exemplos.
