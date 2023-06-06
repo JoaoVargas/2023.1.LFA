@@ -1,8 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-06-06T00:31:15.271Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="3UwfkNSX0JRAiSSPIGu4" version="21.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-06T00:47:51.151Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="vS_ZkhjSSSvgbxbzLsMq" version="21.2.3" type="github">
   <diagram name="Page-1" id="Dn7WCph-Q2Zk05KkJ9gT">
-    <mxGraphModel dx="961" dy="2153" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="679" dy="2113" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
-        <mxCell id="0" />
+        <object label="" teste="10" id="0">
+          <mxCell />
+        </object>
         <mxCell id="1" parent="0" />
         <mxCell id="Tr1CRuv71H9EIvpvQ8Qs-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="v_8HGv_C3uq0IwqfqXQF-1" target="Tr1CRuv71H9EIvpvQ8Qs-1">
           <mxGeometry relative="1" as="geometry" />
@@ -404,9 +406,11 @@
         <mxCell id="Tr1CRuv71H9EIvpvQ8Qs-168" value="5" style="ellipse;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="Tr1CRuv71H9EIvpvQ8Qs-304">
           <mxGeometry x="840" y="120" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Tr1CRuv71H9EIvpvQ8Qs-189" value="&lt;div align=&quot;left&quot;&gt;Automato Estoque-n&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="Tr1CRuv71H9EIvpvQ8Qs-304">
-          <mxGeometry width="520" height="40" as="geometry" />
-        </mxCell>
+        <object label="&lt;div align=&quot;left&quot;&gt;Automato Estoque-n &lt;br&gt;&lt;/div&gt;" n="" placeholders="1" id="Tr1CRuv71H9EIvpvQ8Qs-189">
+          <mxCell style="whiteSpace=wrap;html=1;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="Tr1CRuv71H9EIvpvQ8Qs-304">
+            <mxGeometry width="520" height="40" as="geometry" />
+          </mxCell>
+        </object>
         <mxCell id="Tr1CRuv71H9EIvpvQ8Qs-192" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.402;exitY=1.003;exitDx=0;exitDy=0;entryX=0.604;entryY=0.998;entryDx=0;entryDy=0;exitPerimeter=0;entryPerimeter=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="Tr1CRuv71H9EIvpvQ8Qs-304" source="Tr1CRuv71H9EIvpvQ8Qs-163" target="Tr1CRuv71H9EIvpvQ8Qs-163">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -600,6 +604,14 @@
         </mxCell>
         <mxCell id="Tr1CRuv71H9EIvpvQ8Qs-339" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1240" y="360" width="80" height="80" as="geometry" />
+        </mxCell>
+        <object label="teste&lt;br&gt;%grupo%" placeholders="1" grupo="10" id="c1">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="1230" y="-710" width="80" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="Tr1CRuv71H9EIvpvQ8Qs-341" value="&lt;div&gt;%grupo%&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;%teste%&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="-710" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
