@@ -1944,7 +1944,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="g7I7qQwsV7BfkPcFWQCB" name="Por partes">
-        <mxGraphModel dx="1623" dy="1662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="1331" dy="1449" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -3176,6 +3176,9 @@
                         <mxPoint x="-160" y="1000" as="sourcePoint"/>
                         <mxPoint x="-160" y="1140" as="targetPoint"/>
                     </mxGeometry>
+                </mxCell>
+                <mxCell id="qvh3JNV036HwD2c4ygbM-59" value="&lt;div&gt;&amp;lt;6, 7, ..., 20&amp;gt;&lt;/div&gt;&lt;div&gt;&quot;Verificando estoque&quot;&lt;br&gt;&lt;/div&gt;&lt;div&gt;[Verificar estoque&lt;/div&gt;6, 7, ..., 20&lt;span style=&quot;background-color: initial;&quot;&gt;]&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;container=0;" vertex="1" parent="1">
+                    <mxGeometry x="-130" y="1065" width="140" height="70" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
