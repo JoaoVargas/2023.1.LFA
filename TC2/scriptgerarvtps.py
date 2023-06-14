@@ -319,6 +319,6 @@ Q = {
      [Verificar estoque 1], [Verificar estoque 2], [Verificar estoque 3], [Verificar estoque 4], [Verificar estoque 5], [Verificar estoque 6], [Verificar estoque 7], [Verificar estoque 8], [Verificar estoque 9], [Verificar estoque 10], 
      [Verificar estoque 11], [Verificar estoque 12], [Verificar estoque 13], [Verificar estoque 14], [Verificar estoque 15], [Verificar estoque 16], [Verificar estoque 17], [Verificar estoque 18], [Verificar estoque 19], [Verificar estoque 20], 
      [Verificar pagamento 1], [Verificar pagamento 2], [Verificar pagamento 3], [Verificar pagamento 4], [Verificar pagamento 5], [Verificar pagamento 6], [Verificar pagamento 7], [Verificar pagamento 8], [Verificar pagamento 9], [Verificar pagamento 10], 
-     [Verificar pagamento 11], [Verificar pagamento 12], [Verificar pagamento 13], [Verificar pagamento 14], [Verificar pagamento 15], [Verificar pagamento 16], [Verificar pagamento 17], [Verificar pagamento 18], [Verificar pagamento 19], [Verificar pagamento 20], 
+     [Verificar pagamento 11], [Verificar pagamento 12], [Verificar pagamento 13], [Verificar pagamento 14], [Verificar pagamento 15], [Verificar pagamento 16], [Verificar pagamento 17], [Verificar pagamento 18], [Verificar pagamento 19], [Verificar pagamento 20]
      }
 """
