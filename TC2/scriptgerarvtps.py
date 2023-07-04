@@ -4,8 +4,8 @@ import time
 def texto(): 
      for i in range(1,21):
           time.sleep(0.1)
-          #pyautogui.hotkey("ctrl", "v")
-          pyautogui.write("[Verificar pagamento " + str(i) + "], ")
+          #pyautogui.hotkey("ctrl", "v"")
+          pyautogui.write("BI{0}_Geral, ".format(i))
           #pyautogui.hotkey("ctrl", "v")
           #pyautogui.write(' ' + str(i) + "                 x \"Repor 1, Tudo ou Voltar?\"")
           
@@ -23,6 +23,10 @@ main()
 
 
 """
+
+BI1_Geral, BI2_Geral, BI3_Geral, BI4_Geral, BI5_Geral, BI6_Geral, BI7_Geral, BI8_Geral, BI9_Geral, BI10_Geral, 
+BI11_Geral, BI12_Geral, BI13_Geral, BI14_Geral, BI15_Geral, BI16_Geral, BI17_Geral, BI18_Geral, BI19_Geral, BI20_Geral, 
+
 Maquina Geral = (SigmaG, Q, δ, Base, {}, ∆)
 SigmaG = {
           <Manutenção>, (Identidade Válida), (Identidade Inválida), <Voltar>, <Reposição>, <Repor 1>, <Repor Tudo>, <Comprar>, <Cartão>, <Dinheiro>,
